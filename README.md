@@ -1,6 +1,6 @@
 ### 😄 Hey, I'm Bruno Cordeiro!
 
-- *Student in Information Systems at the Universidade Federal da Paraíba 📚*
+- *Student in Sistemas de Informação at the Universidade Federal da Paraíba 📚*
 - *Java lover 💻*
 - *Movies, books and games enthusiast 💖*
 
