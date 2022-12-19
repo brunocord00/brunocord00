@@ -15,6 +15,7 @@
  <br><br>
     <h3 align="left"><img src="https://img.icons8.com/color/48/000000/settings--v1.png" width="20px">  Tech Stack</h3>
   
+<div>
 <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:4px">
 <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/csharp_dotnet.svg" alt="csharp_dotnet"  style="vertical-align:top; margin:4px"> 
 <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
@@ -22,7 +23,7 @@
 <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/tools/jetbrains_intellij.svg" alt="jetbrains_intellij" style="vertical-align:top; margin:4px">
 <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
 <br><br>
-
+</div>
 <h3 align="left"><img src="https://www.clipartmax.com/png/full/44-449114_connection-clipart-icon-connection-icon-black.png" width="30px">  Social Links</h3>
 
 <div>
