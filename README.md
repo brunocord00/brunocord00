@@ -27,7 +27,7 @@
 <h3 align="left"><img src="https://www.clipartmax.com/png/full/44-449114_connection-clipart-icon-connection-icon-black.png" width="30px">  Social Links</h3>
 
 <div>
-  <a href="https://t.me/brunocord00" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
+  <a href="https://t.me/debruninhoo" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
   <a href = "mailto:brunocord00@live.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank">
 </a>
   <a href="https://br.linkedin.com/in/brunocordeiro00" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
